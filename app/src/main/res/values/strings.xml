@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">todolist</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="or">or</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="cancel">Cancel</string>
+    <string name="log_out">Log out</string>
+</resources>
